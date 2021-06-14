@@ -1,0 +1,40 @@
+img {
+  width: 75px;
+}
+.login {
+  margin-left: 20px;
+}
+li {
+  height: 100px;
+  margin-left: 20%;
+  margin-right: 20%;
+  margin-bottom: 10px;
+  border-top-right-radius: 20px 40px;
+  border-top-left-radius: 20px 40px;
+  border-bottom-right-radius: 20px 40px;
+  border-bottom-left-radius: 20px 40px;
+}
+.url {
+  margin-left: 20px;
+}
+#pages {
+  max-width: 100%;
+  height: 45px;
+  overflow: scroll;
+}
+input {
+  margin: 20px;
+}
+button {
+  margin-bottom: 5px;
+}
+.top {
+  text-align: center;
+}
+.sort {
+  margin-left: 42%;
+}
+.list-group {
+  width: 100%;
+  text-align: center;
+}
